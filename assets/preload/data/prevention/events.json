@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "school",
+		"player1": "dad",
+		"player2": "bf-pixel-opponent",
+		"player3": null,
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Screen Shake",
+						"3, 0.01",
+						""
+					],
+					[
+						"Zoom",
+						"4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "prevention"
+	}
+}
